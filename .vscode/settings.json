@@ -6,6 +6,7 @@
         "new": "cpp",
         "xiosbase": "cpp",
         "chrono": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "format": "cpp"
     }
 }
